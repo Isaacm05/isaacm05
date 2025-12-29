@@ -3,41 +3,29 @@
 Hi I'm Isaac Mei, a computer engineering student at Purdue University focused on how software interfaces with hardware to control, optimize, and extend physical systems. Check out my [website](isaacmei.com)!
 
 ## 🎯 Roles
-Software Engineer, Embedded Software Engineer, Device-Facing Software
-
-## 🔭 Interests
-- Software–hardware integration  
-- Embedded and low-level software  
-- Performance-critical code with physical side effects  
+Software Engineer, Embedded / Device-Facing Software Engineer
 
 ## 🧠 Skills
-- C / C++ for hardware-facing software  
-- Python for data processing, tooling, and automation  
-- Debugging software interacting with physical systems  
+- C/C++, Python for hardware-facing and performance-critical software  
+- Software–hardware integration and low-level debugging  
+- AWS: S3, Lambda, EC2  
+- Docker, Git, Linux, CI/CD tooling  
 
 ## 🎓 Coursework
-
-**Upcoming (Software-Focused)**  
-- Introduction to Artificial Intelligence  
-- Object-Oriented Programming  
-- Networking and Communications  
-
-**Completed**  
-- Advanced C, Python for Data Science, Discrete Mathematics  
-- Digital Systems and Design, Microprocessors, EE Fundamentals I & II  
-- Signals and Systems, Linear Algebra, Differential Equations, Probabilistic Methods for ECE  
+**Upcoming:** AI, Object-Oriented Programming, Networking  
+**Completed:** Advanced C, Python for Data Science, Digital Systems, Microprocessors,  
+Signals and Systems, Linear Algebra, Probability for ECE
 
 ## 📂 Projects
-See pinned repositories below for software–hardware interaction projects.
+See pinned repositories below for hardware-interfacing and cloud-backed software projects.
 
 ## 📍 Logistics
-- U.S. Citizen  
-- Open to relocation (anywhere)
+U.S. Citizen · Open to relocation (anywhere)
 
 ## 🔗 Links
-- Website: https://isaacmei.com  
-- GitHub: @isaacm05  
-- Email: imei@purdue.edu | izmei2327@gmail.com
+Website: https://isaacmei.com  
+GitHub: @isaacm05  
+Email: imei@purdue.edu | izmei2327@gmail.com
 
 
 <!--
