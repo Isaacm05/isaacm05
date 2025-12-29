@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi I'm Isaac Mei, a computer engineering student at Purdue University focused on how software interfaces with hardware to control, optimize, and extend physical systems. Check out my [website](isaacmei.com)!
+Hi I'm Isaac Mei, a computer engineering student at Purdue University focused on how software interfaces with hardware to control, optimize, and extend physical systems. I'm a U.S. Citizen open to relocation. Check out my [website](isaacmei.com)!
 
 ## 🎯 Roles
 Software Engineer, Embedded / Device-Facing Software Engineer
@@ -15,12 +15,6 @@ Software Engineer, Embedded / Device-Facing Software Engineer
 **Upcoming:** AI, Object-Oriented Programming, Networking  
 **Completed:** Advanced C, Python for Data Science, Digital Systems, Microprocessors,  
 Signals and Systems, Linear Algebra, Probability for ECE
-
-## 📂 Projects
-See pinned repositories below for hardware-interfacing and cloud-backed software projects.
-
-## 📍 Logistics
-U.S. Citizen · Open to relocation (anywhere)
 
 ## 🔗 Links
 Website: https://isaacmei.com  
