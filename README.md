@@ -1,7 +1,7 @@
 Hi I'm Isaac Mei, a computer engineering student at Purdue University focused on how software interfaces with hardware to control, optimize, and extend physical systems. I'm a U.S. Citizen open to relocation. Check out my [website](isaacmei.com)!
 
 ## 💼 Experience
-- Incoming Software Engineering Intern at Amazon
+- Incoming Embedded Software Engineering Intern at Amazon AWS
 - Former Software Engineering Intern at BAE Systems
 
 ## 🧠 Skills
