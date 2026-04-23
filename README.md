@@ -11,9 +11,8 @@ Hi I'm Isaac Mei, a computer engineering student at Purdue University focused on
 - Docker, Git, Linux, CI/CD tooling  
 
 ## 🎓 Coursework
-**Upcoming:**  Signal Processing Lab, Embedded Systems
-**Completed:** AI, Object-Oriented Programming, Networking, Advanced C, Python for Data Science, Digital Systems, Microprocessors,  
-Signals and Systems, Linear Algebra, Probability for ECE
+**Upcoming:**  Digital Signal Processing Lab, Embedded Systems
+**Completed:** AI, Object-Oriented Programming, Networking, Advanced C, Python for Data Science, Digital Systems, Microprocessors, Signals and Systems, Linear Algebra, Probability for ECE
 
 ## 🔗 Links
 Website: https://isaacmei.com  
