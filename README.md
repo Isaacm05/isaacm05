@@ -12,6 +12,7 @@ Hi I'm Isaac Mei, a computer engineering student at Purdue University focused on
 
 ## 🎓 Coursework
 **Upcoming:**  Digital Signal Processing Lab, Embedded Systems
+
 **Completed:** AI, Object-Oriented Programming, Networking, Advanced C, Python for Data Science, Digital Systems, Microprocessors, Signals and Systems, Linear Algebra, Probability for ECE
 
 ## 🔗 Links
