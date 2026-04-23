@@ -1,9 +1,8 @@
-## Hi there 👋
-
 Hi I'm Isaac Mei, a computer engineering student at Purdue University focused on how software interfaces with hardware to control, optimize, and extend physical systems. I'm a U.S. Citizen open to relocation. Check out my [website](isaacmei.com)!
 
-## 🎯 Roles
-Software Engineer, Embedded / Device-Facing Software Engineer
+## 💼 Experience
+- Incoming Software Engineering Intern at Amazon
+- Former Software Engineering Intern at BAE Systems
 
 ## 🧠 Skills
 - C/C++, Python for hardware-facing and performance-critical software  
@@ -12,8 +11,8 @@ Software Engineer, Embedded / Device-Facing Software Engineer
 - Docker, Git, Linux, CI/CD tooling  
 
 ## 🎓 Coursework
-**Upcoming:** AI, Object-Oriented Programming, Networking  
-**Completed:** Advanced C, Python for Data Science, Digital Systems, Microprocessors,  
+**Upcoming:**  Signal Processing Lab, Embedded Systems
+**Completed:** AI, Object-Oriented Programming, Networking, Advanced C, Python for Data Science, Digital Systems, Microprocessors,  
 Signals and Systems, Linear Algebra, Probability for ECE
 
 ## 🔗 Links
